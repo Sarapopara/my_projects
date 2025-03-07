@@ -1,5 +1,4 @@
 # my_projects
-<!DOCTYPE html>
 <html>
 <head>
 <title>Задача за самостоятелна работа по ИТ</title>
@@ -18,4 +17,3 @@
 
 <img>
 <img src="https://github.com/Sarapopara/my_projects/blob/main/sunset-tranquil-forest-reflects-calm-pond-generated-by-artificial-intelligence.jpg?raw=true" alt="Online image">
-</body>
