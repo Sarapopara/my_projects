@@ -17,5 +17,5 @@
 <p>Най-пълноводната река в страната. Извира от Рила и преминава през Пазарджик, Пловдив и Свиленград, след което навлиза в Гърция и Турция, където се влива в Егейско море.</p>
 
 <img>
-<img src="https://img.freepik.com/free-photo/sunset-tranquil-forest-reflects-calm-pond-generated-by-artificial-intelligence_188544-150010.jpg?t=st=1741372742~exp=1741376342~hmac=47021f160ac9baa77226aeb270a8d34753bfdc855d798a5ca5c6a6217bed043e&w=2000" alt="Online image">
+<img src="https://github.com/Sarapopara/my_projects/blob/main/sunset-tranquil-forest-reflects-calm-pond-generated-by-artificial-intelligence.jpg?raw=true" alt="Online image">
 </body>
